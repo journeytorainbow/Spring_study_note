@@ -22,5 +22,5 @@
 + [스프링 프로젝트 생성](https://github.com/journeytorainbow/Spring_study_note/blob/master/%EC%8A%A4%ED%94%84%EB%A7%81_%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_%EC%83%9D%EC%84%B1/%EB%A9%94%EB%AA%A8.md) : `Maven` 및 `pom.xml` 설명 포함
 + [처음 해보는 스프링 프로젝트](https://github.com/journeytorainbow/Spring_study_note/blob/master/%EC%B2%98%EC%9D%8C_%ED%95%B4%EB%B3%B4%EB%8A%94_%EC%8A%A4%ED%94%84%EB%A7%81_%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8/%EB%A9%94%EB%AA%A8.md)
 + [프로젝트 생성 방법2](https://github.com/journeytorainbow/Spring_study_note/blob/master/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_%EC%83%9D%EC%84%B1_%EB%B0%A9%EB%B2%952/%EB%A9%94%EB%AA%A8.md)
-+ [DI(Dependency Injection)](https://github.com/journeytorainbow/Spring_study_note/blob/master/DI(Dependecy_Injection)/%EB%A9%94%EB%AA%A8.md)
++ [DI(Dependency Injection)](https://github.com/journeytorainbow/Spring_study_note/blob/master/DI(Dependency_Injection)/%EB%A9%94%EB%AA%A8.md)
 + [다양한 의존 객체 주입](https://github.com/journeytorainbow/Spring_study_note/blob/master/%EB%8B%A4%EC%96%91%ED%95%9C_%EC%9D%98%EC%A1%B4_%EA%B0%9D%EC%B2%B4%EC%A3%BC%EC%9E%85/%EB%A9%94%EB%AA%A8.md)
