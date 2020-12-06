@@ -24,3 +24,7 @@
 + [프로젝트 생성 방법2](https://github.com/journeytorainbow/Spring_study_note/blob/master/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_%EC%83%9D%EC%84%B1_%EB%B0%A9%EB%B2%952/%EB%A9%94%EB%AA%A8.md)
 + [DI(Dependency Injection)](https://github.com/journeytorainbow/Spring_study_note/blob/master/DI(Dependency_Injection)/%EB%A9%94%EB%AA%A8.md)
 + [다양한 의존 객체 주입](https://github.com/journeytorainbow/Spring_study_note/blob/master/%EB%8B%A4%EC%96%91%ED%95%9C_%EC%9D%98%EC%A1%B4_%EA%B0%9D%EC%B2%B4%EC%A3%BC%EC%9E%85/%EB%A9%94%EB%AA%A8.md)
++ [스프링 설정 파일 분리](https://github.com/journeytorainbow/Spring_study_note/blob/master/%EC%8A%A4%ED%94%84%EB%A7%81_%EC%84%A4%EC%A0%95%ED%8C%8C%EC%9D%BC_%EB%B6%84%EB%A6%AC/%EB%A9%94%EB%AA%A8.md)
++ [의존객체 자동 주입](https://github.com/journeytorainbow/Spring_study_note/blob/master/%EC%9D%98%EC%A1%B4%EA%B0%9D%EC%B2%B4_%EC%9E%90%EB%8F%99%EC%A3%BC%EC%9E%85/%EB%A9%94%EB%AA%A8.md)
++ [의존객체 선택](https://github.com/journeytorainbow/Spring_study_note/blob/master/%EC%9D%98%EC%A1%B4%EA%B0%9D%EC%B2%B4_%EC%84%A0%ED%83%9D/%EB%A9%94%EB%AA%A8.md)
++ [생명주기(Life Cycle)](https://github.com/journeytorainbow/Spring_study_note/blob/master/%EC%83%9D%EB%AA%85%EC%A3%BC%EA%B8%B0(life_cycle)/%EB%A9%94%EB%AA%A8.md)
