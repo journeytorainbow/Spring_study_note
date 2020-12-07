@@ -6,7 +6,7 @@ import ems.member.*;
 import ems.member.dao.*;
 import ems.member.service.*;
 
-@Configuration // 스프링 컨테이너를 생성하는 클래스라는 의미
+@Configuration
 public class MemberConfig1 {
 	
 	//<bean id="studentDao" class="ems.member.dao.StudentDao" />

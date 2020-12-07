@@ -6,7 +6,7 @@ import ems.member.*;
 import ems.member.dao.*;
 import ems.member.service.*;
 
-@Configuration // 스프링 컨테이너를 생성하는 클래스라는 의미
+@Configuration
 @Import({MemberConfig2.class, MemberConfig3.class})
 public class MemberConfigUseImport {
 	
