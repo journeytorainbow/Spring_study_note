@@ -28,3 +28,4 @@
 + [의존객체 자동 주입](https://github.com/journeytorainbow/Spring_study_note/blob/master/%EC%9D%98%EC%A1%B4%EA%B0%9D%EC%B2%B4_%EC%9E%90%EB%8F%99%EC%A3%BC%EC%9E%85/%EB%A9%94%EB%AA%A8.md)
 + [의존객체 선택](https://github.com/journeytorainbow/Spring_study_note/blob/master/%EC%9D%98%EC%A1%B4%EA%B0%9D%EC%B2%B4_%EC%84%A0%ED%83%9D/%EB%A9%94%EB%AA%A8.md)
 + [생명주기(Life Cycle)](https://github.com/journeytorainbow/Spring_study_note/blob/master/%EC%83%9D%EB%AA%85%EC%A3%BC%EA%B8%B0(life_cycle)/%EB%A9%94%EB%AA%A8.md)
++ [어노테이션을 이용한 스프링설정1,2](https://github.com/journeytorainbow/Spring_study_note/blob/master/%EC%96%B4%EB%85%B8%ED%85%8C%EC%9D%B4%EC%85%98_%EC%9D%B4%EC%9A%A9_%EC%8A%A4%ED%94%84%EB%A7%81%EC%84%A4%EC%A0%951/%EB%A9%94%EB%AA%A8.md)
