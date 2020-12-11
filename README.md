@@ -36,5 +36,5 @@
 + [세션&쿠키](https://github.com/journeytorainbow/Spring_study_note/blob/master/%EC%84%B8%EC%85%98%26%EC%BF%A0%ED%82%A4/%EB%A9%94%EB%AA%A8.md)
 + [리다이렉트&인터셉트](https://github.com/journeytorainbow/Spring_study_note/blob/master/%EB%A6%AC%EB%8B%A4%EC%9D%B4%EB%A0%89%ED%8A%B8%26%EC%9D%B8%ED%84%B0%EC%85%89%ED%8A%B8/%EB%A9%94%EB%AA%A8.md)
 + [JDBC](https://github.com/journeytorainbow/Spring_study_note/blob/master/JDBC/%EB%A9%94%EB%AA%A8.md)
-+ [JdbcTemplate]
-+ [커넥션풀]
++ [JdbcTemplate](https://github.com/journeytorainbow/Spring_study_note/blob/master/JdbcTemplate/%EB%A9%94%EB%AA%A8.md)
++ [커넥션풀](https://github.com/journeytorainbow/Spring_study_note/blob/master/%EC%BB%A4%EB%84%A5%EC%85%98%ED%92%80/%EB%A9%94%EB%AA%A8.md)
